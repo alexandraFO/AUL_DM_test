@@ -10,6 +10,10 @@ Du finder følgende mapper:
 * Billeder: Heri finder du de billeder, der anvendes.
 * Præsentationer: Heri finder du de præsentationer, der skal anvendes til undervisningen.
 
+## Markdown hjælp
+Her er et link til en guide med forklaring af Markdown syntaks: 
+[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 ## Historik
 Dette indhold blev lavet til en workshop i netværket Digitale Metoder d. 29. januar 2024.
 
